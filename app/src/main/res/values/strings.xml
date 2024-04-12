@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">praktikos-darbas-4</string>
+    <string name="getDataButtonText">Fetch currencies</string>
+    <string name="successMessage">Data downloaded</string>
+    <string name="failureMessage">Data failed to download</string>
 </resources>
